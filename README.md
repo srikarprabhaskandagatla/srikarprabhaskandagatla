@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a master's student in computer science at the University of Massachusetts Amherst, USA. I completed my bachelor's at IcfaiTech, IFHE, Hyderabad, where I was honored with a 🥇<b>Gold Medal</b>b> in <b>All Round Excellence</b>b>.<br><br>Additionally, I've experience in the following!</p>
+<p align="left">I'm a master's student in computer science at the University of Massachusetts Amherst, USA. I completed my bachelor's at IcfaiTech, IFHE, Hyderabad, where I was honored with a 🥇<b>Gold Medal</b> in <b>All Round Excellence</b>.<br><br>Additionally, I've experience in the following!</p>
 
 ###
 
