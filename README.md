@@ -1,4 +1,9 @@
 <h2 align="center">Hi! I'm Srikar Prabhas Kandagatla 👋</h2>
+<h3 align="center">Full Stack Developer and AI Enthusiast</h3>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
+</div>
 
 ###
 
