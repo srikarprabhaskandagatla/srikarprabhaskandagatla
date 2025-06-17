@@ -1,22 +1,9 @@
-<h2 align="center">Hi! I'm Srikar Prabhas Kandagatla 👋</h2>
+<h2 align="center">Hi!👋 I'm Srikar Prabhas Kandagatla</h2>
 <h3 align="center">Full Stack Developer and AI Enthusiast</h3>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
-</div>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  /> </p>
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img alt="forthebadge" src="https://forthebadge.com/images/featured/featured-built-with-love.svg">
-    </td>
-    <td align="right">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
-    </td>
-  </tr>
-</table>
 
 ###
 
