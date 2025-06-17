@@ -9,10 +9,10 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="50%">
+    <td align="left">
       <img alt="forthebadge" src="https://forthebadge.com/images/featured/featured-built-with-love.svg">
     </td>
-    <td align="right" width="50%">
+    <td align="right">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
     </td>
   </tr>
