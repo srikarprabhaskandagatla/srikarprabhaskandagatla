@@ -5,6 +5,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
 </div>
 
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img alt="forthebadge" src="https://forthebadge.com/images/featured/featured-built-with-love.svg">
+    </td>
+    <td align="right" width="50%">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
+    </td>
+  </tr>
+</table>
+
 ###
 
 <p align="left">I'm a master's student in computer science at the University of Massachusetts Amherst, USA. I completed my bachelor's at IcfaiTech, IFHE, Hyderabad, where I was honored with a 🥇<b>Gold Medal</b> in <b>All Round Excellence</b>.<br><br>Additionally, I've experience in the following!</p>
@@ -40,14 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srikarprabhaskandagatla.srikarprabhaskandagatla&left_text=Profile%20Views"  />
-</div>
-
-###
 
 <h2 align="left">Please Do Visit!</h2>
 
