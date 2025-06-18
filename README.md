@@ -18,15 +18,17 @@
   <li>Developing a pipeline to enhance LLMs for generating evidence-grounded guidelines. Fine-tuning an LLM to retrieve and integrate relevant evidence for accurate, well-supported outputs.</li>
 </ul>
 </em>
-<br><br>
 <strong>Indian Institute of Technology, Mandi</strong><br>
 <em>
-→ Studied the impact of COVID-19 on regional mobility and tourism across 20 Indian states and union territories by categorizing data into four periods—Pre-COVID, During COVID, Partial COVID, and After COVID—to assess trends and fluctuations. Utilized Microsoft Excel and SPSS Statistics, applying One-Way ANOVA and post hoc tests (Tukey HSD) to identify significant regional variations and recovery patterns.
+<ul>
+  <li>Studied the impact of COVID-19 on regional mobility and tourism across 20 Indian states and union territories by categorizing data into four periods—Pre-COVID, During COVID, Partial COVID, and After COVID—to assess trends and fluctuations. Utilized Microsoft Excel and SPSS Statistics, applying One-Way ANOVA and post hoc tests (Tukey HSD) to identify significant regional variations and recovery patterns.</li>
+</ul>
 </em>
-<br><br>
 <strong>Gorle Group</strong><br>
 <em>
-→ Deployed SAMBA server for secure file sharing with folder authentication, optimizing cross-platform connectivity via xRDP (X Remote Desktop Protocol) to significantly enhance team productivity, collaboration efficiency, and workflow integration.
+<ul>
+  <li>Deployed SAMBA server for secure file sharing with folder authentication, optimizing cross-platform connectivity via xRDP (X Remote Desktop Protocol) to significantly enhance team productivity, collaboration efficiency, and workflow integration.</li>
+</ul>
 </em>
 
 <hr>
