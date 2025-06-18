@@ -8,8 +8,32 @@
 <hr>
 <h2>About Me</h2>
 
-<p>I'm a master's student in computer science at the University of Massachusetts Amherst, USA. I completed my bachelor's at IcfaiTech, IFHE, Hyderabad, where I was honored with a 🥇<b>Gold Medal</b> in <b>All Round Excellence</b>.<br><br>Additionally, I've experience in the following!</p>
+<p>I'm a master's student in computer science at the University of Massachusetts Amherst, USA. I completed my bachelor's at IcfaiTech, IFHE, Hyderabad, where I was honored with a 🥇<b>Gold Medal</b> in <b>All Round Excellence</b>.</p>
+
 <hr>
+<h2>Experience</h2>
+<strong>University of Massachusetts Amherst</strong><br>
+<em>
+→ Developing a pipeline to enhance LLMs for generating evidence-grounded guidelines. Fine-tuning an LLM to retrieve and integrate relevant evidence for accurate, well-supported outputs.
+</em>
+<h2>Experience</h2>
+<strong>Indian Institute of Technology, Mandi</strong><br>
+<em>
+→ Studied the impact of COVID-19 on regional mobility and tourism across 20 Indian states and union territories by categorizing data into four periods—Pre-COVID, During COVID, Partial COVID, and After COVID—to assess trends and fluctuations. Utilized Microsoft Excel and SPSS Statistics, applying One-Way ANOVA and post hoc tests (Tukey HSD) to identify significant regional variations and recovery patterns.
+</em>
+<strong>Gorle Group</strong><br>
+<em>
+→ Deployed SAMBA server for secure file sharing with folder authentication, optimizing cross-platform connectivity via xRDP (X Remote Desktop Protocol) to significantly enhance team productivity, collaboration efficiency, and workflow integration.
+</em>
+
+<hr>
+<h2>Achievements</h2>
+<em>
+Received the “Shri N. J. Yasaswy Best Student Gold Medal” for achieving First Rank in “All Round Excellence” at IcfaiTech.<br>
+Earned Merit Scholarship at IFHE for top 5% academic ranking, covering tuition costs with distinction.<br>
+Department course topper for the courses DS324: Neural Networks & Fuzzy Logic & DS303: Blockchain Technology.<br>
+Solving various Rubik’s Cube (2X2, 3X3, Gear Cube) almost a minute and 4X4, 5X5, Pyraminx, Axis Cube at steady pace.<br>
+</em>
 
 ## Languages and Tools :
 
@@ -46,9 +70,7 @@
 <hr>
 <h2>Contact Me!</h2>
 Feel free to reach out if you’d like to get in touch.
-
 <br>
-
 <p>
   <a href="https://www.youtube.com/@ultrasonicmediahd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
