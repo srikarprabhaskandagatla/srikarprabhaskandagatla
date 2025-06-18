@@ -16,7 +16,7 @@
 <em>
 → Developing a pipeline to enhance LLMs for generating evidence-grounded guidelines. Fine-tuning an LLM to retrieve and integrate relevant evidence for accurate, well-supported outputs.
 </em>
-<br>
+<br><br>
 <strong>Indian Institute of Technology, Mandi</strong><br>
 <em>
 → Studied the impact of COVID-19 on regional mobility and tourism across 20 Indian states and union territories by categorizing data into four periods—Pre-COVID, During COVID, Partial COVID, and After COVID—to assess trends and fluctuations. Utilized Microsoft Excel and SPSS Statistics, applying One-Way ANOVA and post hoc tests (Tukey HSD) to identify significant regional variations and recovery patterns.
@@ -36,6 +36,7 @@ Earned Merit Scholarship at IFHE for top 5% academic ranking, covering tuition c
 Department course topper for the courses DS324: Neural Networks & Fuzzy Logic & DS303: Blockchain Technology.<br>
 Solving various Rubik’s Cube (2X2, 3X3, Gear Cube) almost a minute and 4X4, 5X5, Pyraminx, Axis Cube at steady pace.<br>
 </em>
+<hr>
 
 ## Languages and Tools :
 
