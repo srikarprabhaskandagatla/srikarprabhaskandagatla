@@ -72,7 +72,6 @@ Solving various Rubik’s Cube (2X2, 3X3, Gear Cube) almost a minute and 4X4, 5X
 <hr>
 <h2>Contact Me!</h2>
 Feel free to reach out if you’d like to get in touch.<br><br>
-<br>
 <p>
   <a href="https://www.youtube.com/@ultrasonicmediahd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
