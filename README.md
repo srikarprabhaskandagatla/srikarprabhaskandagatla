@@ -30,10 +30,12 @@
 <hr>
 <h2>Achievements</h2>
 <em>
-Received the “Shri N. J. Yasaswy Best Student Gold Medal” for achieving First Rank in “All Round Excellence” at IcfaiTech.<br>
-Earned Merit Scholarship at IFHE for top 5% academic ranking, covering tuition costs with distinction.<br>
-Department course topper for the courses DS324: Neural Networks & Fuzzy Logic & DS303: Blockchain Technology.<br>
-Solving various Rubik’s Cube (2X2, 3X3, Gear Cube) almost a minute and 4X4, 5X5, Pyraminx, Axis Cube at steady pace.<br>
+<ul>
+  <li>Received the “Shri N. J. Yasaswy Best Student Gold Medal” for achieving First Rank in “All Round Excellence” at IcfaiTech.</li>
+  <li>Earned Merit Scholarship at IFHE for top 5% academic ranking, covering tuition costs with distinction.</li>
+  <li>Department course topper for the courses DS324: Neural Networks & Fuzzy Logic & DS303: Blockchain Technology.</li>
+  <li>Solving various Rubik’s Cube (2X2, 3X3, Gear Cube) almost a minute and 4X4, 5X5, Pyraminx, Axis Cube at steady pace.</li>
+</ul>
 </em>
 <hr>
 
