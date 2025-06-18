@@ -14,7 +14,9 @@
 <h2>Experience</h2>
 <strong>University of Massachusetts Amherst</strong><br>
 <em>
-→ Developing a pipeline to enhance LLMs for generating evidence-grounded guidelines. Fine-tuning an LLM to retrieve and integrate relevant evidence for accurate, well-supported outputs.
+<ul>
+  <li>Developing a pipeline to enhance LLMs for generating evidence-grounded guidelines. Fine-tuning an LLM to retrieve and integrate relevant evidence for accurate, well-supported outputs.</li>
+</ul>
 </em>
 <br><br>
 <strong>Indian Institute of Technology, Mandi</strong><br>
